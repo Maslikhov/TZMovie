@@ -1,0 +1,18 @@
+{
+  "actions": {
+    "Login": "Login",
+    "Add": "+",
+    "Home": "Home",
+    "Urql": "Urql",
+    "Logout": "Logout"
+  },
+  "movie": {
+    "TitleName": "Назва фільму",
+    "Stars": "Зірки",
+    "Year": "Рік",
+    "Format": "Формат",
+    "About": "Про фільм",
+    "Sort": "sort",
+    "Delete": "Delete"
+  }
+}
